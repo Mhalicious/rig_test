@@ -5,3 +5,4 @@ RIG-Test
 
 - creating files and folders
 - creating SCSS and CSS files
+- creating Repo
